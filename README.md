@@ -95,7 +95,7 @@ Practical examples demonstrating my software testing knowledge and approach:
 ## Contact
 
 - **GitHub:** [Hadiya-Khokhar](https://github.com/Hadiya-Khokhar)
-- **LinkedIn:**https://www.linkedin.com/in/hadiya-khokhar/
+- **LinkedIn:** https://www.linkedin.com/in/hadiya-khokhar/
 - **Email:** hadiyakhokhar19@gmail.com
 
 *Thank you for visiting my portfolio!*
