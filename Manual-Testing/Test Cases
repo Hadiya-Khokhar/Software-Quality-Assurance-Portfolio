@@ -1,0 +1,29 @@
+
+# Test Cases – Login & Registration
+
+**Application:** Sample Web Application  
+**Testing Type:** Manual Testing  
+**Test Environment:** Demo Application  
+**Status:** Not Executed
+
+## Login Test Cases
+
+| Test Case ID | Test Scenario | Test Description | Expected Result | Actual Result | Status |
+|---|---|---|---|---|---|
+| TC-001 | Valid Login | Enter valid email and password. | User should log in successfully. | Not Executed | Not Executed |
+| TC-002 | Invalid Password | Enter a valid email with an incorrect password. | An appropriate error message should appear. | Not Executed | Not Executed |
+| TC-003 | Invalid Email | Enter an unregistered email and a password. | Login should be rejected with an appropriate message. | Not Executed | Not Executed |
+| TC-004 | Empty Fields | Click Login without entering credentials. | Required-field validation should appear. | Not Executed | Not Executed |
+| TC-005 | Empty Password | Enter an email but leave the password empty. | Password validation should appear. | Not Executed | Not Executed |
+| TC-006 | Password Visibility | Click the password visibility icon. | Password should toggle between hidden and visible. | Not Executed | Not Executed |
+| TC-007 | Forgot Password | Click the Forgot Password link. | User should be directed to password recovery. | Not Executed | Not Executed |
+
+## Registration Test Cases
+
+| Test Case ID | Test Scenario | Test Description | Expected Result | Actual Result | Status |
+|---|---|---|---|---|---|
+| TC-008 | Valid Registration | Enter all required valid details and submit. | Account should be created successfully. | Not Executed | Not Executed |
+| TC-009 | Existing Email | Register using an email already associated with an account. | System should display an appropriate error message. | Not Executed | Not Executed |
+| TC-010 | Invalid Email Format | Enter an incorrectly formatted email address. | Email validation should appear. | Not Executed | Not Executed |
+| TC-011 | Empty Required Fields | Submit the registration form without filling required fields. | Required-field validation should appear. | Not Executed | Not Executed |
+| TC-012 | Password Mismatch | Enter different passwords in the password and confirmation fields. | System should display a password mismatch message. | Not Executed | Not Executed |
